@@ -7,7 +7,6 @@ def create_an_array
 end
 
 def add_element_to_end_of_array(array, element)
-  my_array = [2, 4, 6, 8]
   my_array << 10
 end
 
